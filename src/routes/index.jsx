@@ -7,6 +7,8 @@ import NotFound from '../pages/NotFound';
 import AboutUs from '../pages/About';
 import Experts from '../pages/About/Experts';
 import Governance from '../pages/About/Governance';
+
+import BusinessFields from '../pages/Product/BusinessFields';
 import UnderConstruction from '../pages/UnderConstruction';
 
 function App() {
@@ -18,7 +20,7 @@ function App() {
             <Route path="/about-us/governance" element={<Governance />} />
             <Route path="/contact-us" element={<ContactUs />} />
             <Route path="/portfolio" element={<UnderConstruction />} />
-            <Route path="/product/business-fields" element={<UnderConstruction />} />
+            <Route path="/product/business-fields" element={<BusinessFields/>} />
             <Route path="/product/strategic-program/ecosystem" element={<UnderConstruction />} />
             <Route path="/product/strategic-program/workers-dev" element={<UnderConstruction />} />
             <Route path="/product/strategic-program/industrial-training" element={<UnderConstruction />} />
@@ -29,5 +31,6 @@ function App() {
         </Routes>
     );
 }
+
 
 export default App;

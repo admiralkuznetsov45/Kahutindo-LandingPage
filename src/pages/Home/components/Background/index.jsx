@@ -5,10 +5,10 @@ import ProgrammerImage from '../../../../assets/image_1.jpg'
 import Dots from '../../../../assets/dots.png'
 
 
-function HomeProducts() {
+function HomeBackgrounds() {
     return (
         <>
-            <div id="HomeProducts bg-slate-50" style={{ backgroundImage: `url(${Dots})`, backgroundRepeat: 'repeat', backgroundSize: 'contain' }}>
+            <div id="HomeBackgrounds bg-slate-50" style={{ backgroundImage: `url(${Dots})`, backgroundRepeat: 'repeat', backgroundSize: 'contain' }}>
                 <div className='max-w-[1440px] mx-auto pt-10 pb-24 px-12 2xl:px-0'>
                     <div className="text-center">
                         <h2 className="drop-shadow-md text-2xl md:text-3xl lg:text-4xl font-semibold text-indigo-950 ">Background</h2>
@@ -60,4 +60,4 @@ function HomeProducts() {
     )
 }
 
-export default HomeProducts
+export default HomeBackgrounds
