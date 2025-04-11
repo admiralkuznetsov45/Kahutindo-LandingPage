@@ -2,14 +2,16 @@ import ProgrammerImage from '../../../../assets/image_1.jpg'
 // import CodeIcon from '../../../../assets/code-square-svgrepo-com.svg'
 // import MobileIcon from '../../../../assets/mobile-alt-1-svgrepo-com.svg'
 // import AdsIcon from '../../../../assets/advertisement-svgrepo-com.svg'
+import Dots from '../../../../assets/dots.png'
+
 
 function HomeProducts() {
     return (
         <>
-            <div id="HomeProducts">
+            <div id="HomeProducts bg-slate-50" style={{ backgroundImage: `url(${Dots})`, backgroundRepeat: 'repeat', backgroundSize: 'contain' }}>
                 <div className='max-w-[1440px] mx-auto pt-10 pb-24 px-12 2xl:px-0'>
                     <div className="text-center">
-                        <h2 className="drop-shadow-md text-2xl md:text-3xl lg:text-4xl font-semibold text-indigo-950">Background</h2>
+                        <h2 className="drop-shadow-md text-2xl md:text-3xl lg:text-4xl font-semibold text-indigo-950 ">Background</h2>
                     </div>
                     <div className="lg:px-0 pt-16 md:pt-24 lg:flex lg:gap-12 2xl:gap-0">
                         <div className='lg:flex-1 flex lg:flex-column justify-center lg:items-center'>

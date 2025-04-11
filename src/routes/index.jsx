@@ -18,6 +18,13 @@ function App() {
             <Route path="/about-us/governance" element={<Governance />} />
             <Route path="/contact-us" element={<ContactUs />} />
             <Route path="/portfolio" element={<UnderConstruction />} />
+            <Route path="/product/business-fields" element={<UnderConstruction />} />
+            <Route path="/product/strategic-program/ecosystem" element={<UnderConstruction />} />
+            <Route path="/product/strategic-program/workers-dev" element={<UnderConstruction />} />
+            <Route path="/product/strategic-program/industrial-training" element={<UnderConstruction />} />
+            <Route path="/product/strategic-program/fund-mgmtg" element={<UnderConstruction />} />
+            <Route path="/product/strategic-program/ecolabel-env" element={<UnderConstruction />} />
+            <Route path="/product/strategic-program/legal-adr" element={<UnderConstruction />} />
             <Route path="*" element={<NotFound />} />
         </Routes>
     );

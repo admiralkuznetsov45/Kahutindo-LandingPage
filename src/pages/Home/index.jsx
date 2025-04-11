@@ -1,10 +1,11 @@
 import HomeHero from './components/Hero'
 import HomePartners from './components/Partners'
-import HomeProducts from './components/Products'
+import HomeProducts from './components/Legalities'
 import HomeContactUs from './components/ContactUs'
 import HomeWhyUs from './components/WhyUs'
 import ReactGA from "react-ga4";
-import HomeLegalities from './components/Legalities'
+import HomeLegalities from './components/Products'
+import Issues from './components/Issues'
 // import HomeTestimonials from './components/Testimonials'
 
 
@@ -21,7 +22,8 @@ function Home() {
       <HomeHero />
       <HomeProducts />
       <HomeLegalities />
-      <HomePartners />
+      {/* <HomePartners /> */}
+      <Issues />
       {/* <HomeTestimonials /> */}
       <HomeWhyUs />
       <HomeContactUs />
