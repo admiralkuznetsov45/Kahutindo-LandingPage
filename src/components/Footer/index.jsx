@@ -49,13 +49,13 @@ function Footer() {
                         <h4 className='text-xl'>
                             Contact Us
                             <div className='flex gap-3'>
-                                <a href="https://www.instagram.com/revocreative_id/" target="_blank">
+                                <a href="https://www.instagram.com" target="_blank">
                                     <InstagramIcon />
                                 </a>
-                                <a href="https://wa.link/fjj377" target="_blank">
+                                <a href="https://https://www.whatsapp.com" target="_blank">
                                     <WhatsAppIcon />
                                 </a>
-                                <a href="mailto:rajawalicakradigdaya@gmail.com" target="_blank">
+                                <a href="mailto:info@kahutindofoundation.org" target="_blank">
                                     <EmailIcon />
                                 </a>
                             </div>
