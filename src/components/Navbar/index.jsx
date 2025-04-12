@@ -98,9 +98,9 @@ function Navbar() {
                         <Link to={"/"} className={navLinkClasses} onClick={closeAllDesktopSubmenus}>
                             Home
                         </Link>
-                        <Link to={"/portfolio"} className={navLinkClasses} onClick={closeAllDesktopSubmenus}>
+                        {/* <Link to={"/portfolio"} className={navLinkClasses} onClick={closeAllDesktopSubmenus}>
                             Portfolio
-                        </Link>
+                        </Link> */}
 
                         {/* Product Desktop Dropdown (NEW) */}
                         <div
@@ -216,9 +216,9 @@ function Navbar() {
                         <Link to={"/"} className={mobileNavLinkClasses} onClick={handleMobileLinkClick}>
                             Home
                         </Link>
-                        <Link to={"/portfolio"} className={mobileNavLinkClasses} onClick={handleMobileLinkClick}>
+                        {/* <Link to={"/portfolio"} className={mobileNavLinkClasses} onClick={handleMobileLinkClick}>
                             Portfolio
-                        </Link>
+                        </Link> */}
 
                         {/* Product Section in Mobile (NEW) */}
                          {/* Note: Mobile doesn't typically use complex hover dropdowns. Displaying all levels. */}
