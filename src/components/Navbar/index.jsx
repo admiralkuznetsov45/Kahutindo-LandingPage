@@ -173,7 +173,7 @@ function Navbar() {
                             onMouseLeave={() => setIsAboutUsSubmenuOpen(false)}
                         >
                             <Link
-                                to="/about-us"
+                               
                                 className={navLinkClasses}
                             >
                                 About Us

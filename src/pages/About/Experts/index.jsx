@@ -40,39 +40,40 @@ function Experts() {
     const teamMembers = [
          {
             name: 'Agus Salim', imageUrl: AgusSalimImg,
-            description: `Agus has worked...` // Full description
+            description: `Agus has worked in the manufacturing industriesin East Java for more than 30 years, where he built solid grassroots organizing, community engagements and alliances among various civil society organizations. Under his strong leadership, the workers movement in Gresik-East Java has become one of the most active in the country. He is a licensed Legal Curator and Liquidator aside from his day job as advocate in his own law firm. Agus was appointed as member of National Tripartite Council for the period of 2019-2023, during a critical period with the passing of Omnibuslaw (UU Cipta Kerja) by the national parliament` // Full description
         },
         {
             name: 'Sukarjo', imageUrl: SukarjoImg,
-            description: `Sukarjo is a certified...` // Full description
+            description: `Sukarjo is a certified Occupational Safety and Health Expert with over 30 years of experience in wood-based manufacturing industries. He is a renowned negotiator in the Regional Tripartite and Wage Council of East Kalimantan, and through his persistent lobbying forsocial dialogues on industrial issues, a joint monitoring taskforce on labour inspection has been established in the province, the first ever in Indonesia. A licensed advocate with his own law firm and a natural public speaker with grassroots organizing skills, Sukarjo has trained many activists and political prodigies on civic education, labour laws and collective bargaining, and actively involved in the sectoral policy discourses. ` // Full description
         },
          {
             name: 'Wahyu Ramdhani', imageUrl: WahyuRamdhaniImg,
-            description: `Wahyu is a Program Manager...` // Full description
+            description: `Wahyu is a Program Manager at Stanford Seed, with over 8 years of experience in training, mentoring, and comanaging entrepreneurship and cybersecurity programs for people with disabilities and youth. He graduated with Law Degree from University of Indonesia and MBA from Gadjah Mada University. Additionally, he actively participates in various projects as a Trainer, Facilitator, and Assessor. Wahyu is passionate about driving positive change and growth in individuals and organizations through strategic planning and effective execution. His areas of expertise include program management, training, mentoring, entrepreneurship, social entrepreneurship, mindset change, financial management, and NGO financial sustainability and leadership programs.` // Full description
         },
         {
             name: 'Rulita Wijayaningdyah', imageUrl: RulitaWijayaningdyahImg,
-            description: `Rulita has over 25 years...` // Full description
+            description: `Rulita has over 25 years of experience in program management, training and organizational leadership development. With exposures of leading roles at trade union and global multistakeholder organizations, her extensive international policy negotiations and engagements with particular focus on social aspects in forestry industrial and climate change issues, she has brought workers and social interest agenda into highlevel policy making deliberations on sustainability. A licensed/certified Mediator, Conciliator, Facilitator and Contract Drafter, alongside with her academic background in German Literature and Sociology, Law and Master Program in Public Administration, whilst nourishing her passion to delivering empowerment programs, Rulita was entrusted to lead the Foundation.` // Full description
         },
         {
             name: 'Jayadi Muh Thaha', imageUrl: JayadiMuhThahaImg,
-            description: `Jayadi is a union trainer...` // Full description
+            description: `Jayadi is a union trainer, certified ISO, JAS, US EFA and ISPS internal auditor with over 30 years experience in wood-based manufacturing and plantation sectors in Sulawesi and East Kalimantan. He has been appointed to be in charge for corporate community development and external affairs, where he built extensive network with his passions in stakeholder relations. His law degree and advocate license was rarely used for his work with the communities because he believes that collaboration can only be built on mutual trust and constructive dialogues. This approach earned him valuable recognition when he served as member of FSC National Standard Development Group in Indonesia. 
+` // Full description
         },
         {
             name: 'Noer Tjahjono', imageUrl: NoerTjahjonoImg,
-            description: `Tjahjo is a grassroot organizer...` // Full description
+            description: `TTjahjo is a grassroot organizer and paralegal on workers’ issues in Central Java. With over 20 years of experience, he is in charge for Kahutindo Training Center activities and development. ` // Full description
         },
         {
             name: 'Ririn Rinawati', imageUrl: RirinRinawatiImg,
-            description: `Rina administers the day-to-day...` // Full description
+            description: `Rina administersthe day-to-day operation of the Kahutindo Training Center in Ungaran, Central Java since 2015. Before she joined the Center, she was involved in various women support groups. As a bachelor in Economics and with her interpersonal skills that contributed on engaging diverse groups of local communities with the Center, she is entrusted as Treasurer of the Foundation.` // Full description
         },
         {
             name: 'Ilma Alyani', imageUrl: IlmaAlyaniImg,
-            description: `Ilma is a project manager...` // Full description
+            description: `Ilma is a project manager with over 6 years of experience leading education and youth-focused initiatives across Indonesia. Currently, she manages the BSI Scholarship Program at Maxima Impact Consulting in partnership with BSI Maslahat, supporting more than 4,400 students and 147 mentors nationwide. She oversees the end-toend implementation of the program while leading a team and ensuring the smooth delivery of mentoring sessions, webinars, and offline bootcamps in multiple cities. Throughout her career, she has collaborated with organizations such as Plan International Indonesia and the Ministry of Education, contributing to projects in soft skills development and national education. Her core strengths include program operations, stakeholder coordination, and designing meaningful learning experiences. Ilma holds a Master’s degree in Management from IPB University. She is fluent in Indonesian and English, with intermediate proficiency in Spanish—making her wellequipped for both local and international collaboration.` // Full description
         },
         {
             name: 'Pikiran Daeli', imageUrl: PikiranDaeliImg,
-            description: `Pikiran had an extensive 31 years...` // Full description
+            description: `Pikiran had an extensive 31 years experience in private sectors and forest management operations covering supply chain/logistics, organization & people development, business process improvement and plantation control, where he has been awarded many recognitions for his logistics management innovations. He is a certified BNSP National Professional Instructor Level 4 KKNI and holds a Master’s degree in Management, currently lecturing Strategic Human Resources Management at the University Adiwangsa Jambi. Based in central part of Sumatera, Pikiran has firsthand exposures with the challenges of the industry stakeholders in the context of sustainable development and climate. ` // Full description
         }
     ];
 
