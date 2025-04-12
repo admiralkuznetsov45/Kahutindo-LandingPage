@@ -52,7 +52,7 @@ function Footer() {
                                 <a href="https://www.instagram.com" target="_blank">
                                     <InstagramIcon />
                                 </a>
-                                <a href="https://https://www.whatsapp.com" target="_blank">
+                                <a href="https://wa.me/628118771377" target="_blank">
                                     <WhatsAppIcon />
                                 </a>
                                 <a href="mailto:info@kahutindofoundation.org" target="_blank">
